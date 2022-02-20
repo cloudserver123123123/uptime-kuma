@@ -1,1 +1,1 @@
-worker: pm2 start server/server.js --name uptime-kuma
+worker: pm2 start server/server.js --name fishy-uptimes
